@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 // Import styles like this:
-import './styles/main.scss';
+import './styles/app.scss';
 
 // Import dependencies like this:
 import Deck from './components/deck';
