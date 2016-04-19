@@ -1,0 +1,13 @@
+Json Types
+Link Flair (Goes before Title)([Question],[Help]) "link_flair_text"
+Title (Includes Link Flair)"title"
+Self post or link "is_self":
+Body(In Self Post) "selftext_html"
+Score "score"
+Author "author"
+Gilds (Number of times given reddit gold) "gilded"
+Thumbnail "thumbnail"
+Date Created "created_utc"
+url "url"
+Number of Comments "num_comments"
+True if NSFW "over_18"
