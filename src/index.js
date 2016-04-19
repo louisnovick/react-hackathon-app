@@ -6,12 +6,12 @@ import ReactDOM from 'react-dom';
 import './styles/main.scss';
 
 // Import dependencies like this:
-import Goat from './components/goat-component';
+import Deck from './components/deck';
 
 class App extends React.Component {
   render() {
     return (
-      <div>I heard React was good. <Goat /></div>
+      <Deck />
     );
   }
 }
